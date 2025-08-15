@@ -150,6 +150,6 @@ This repository is solely for **portfolio showcase purposes**.
 👨‍💻 **Developer:** Ragavan B  
 📍 Chennai, Tamil Nadu, India  
 📧 **Email:** [ragav.b369@gmail.com]  
-💼 **Portfolio:** [Ragav Portfolio](#https://ragavan-developer.netlify.app/)  
-🌐 **LinkedIn:** [Ragavan-Developer](#https://www.linkedin.com/in/Ragavan-B-developer/)  
+💼 **Portfolio:** [Ragav Portfolio](https://ragavan-developer.netlify.app/)  
+🌐 **LinkedIn:** [Ragavan-Developer](https://www.linkedin.com/in/Ragavan-B-developer/)  
 
